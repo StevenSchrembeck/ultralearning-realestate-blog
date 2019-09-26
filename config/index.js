@@ -17,7 +17,7 @@ module.exports = {
   userTwitter: '@minimal', // Twitter Username - Optional
   ogSiteName: 'minimal', // Facebook Site Name - Optional
   ogLanguage: 'en_US', // Facebook Language
-  googleAnalyticsID: 'UA-47519312-6',
+  googleAnalyticsID: '',
 
   // Manifest and Progress color
   // See: https://developers.google.com/web/fundamentals/web-app-manifest/
