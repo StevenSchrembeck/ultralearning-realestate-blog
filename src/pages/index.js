@@ -49,10 +49,9 @@ const IndexPage = ({
   <Layout>
     <Wrapper>
       <Hero>
-        <h1>Hi.</h1>
+        <h1>Yo.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
-          React apps with the best UX users can get.
+          This is Steven Schrembeck&apos;s safe space to write about anything. You're welcome here, just make sure you wipe your feet first. I just vacuumed.
         </p>
         <Link to="/contact">
           <Button big>
