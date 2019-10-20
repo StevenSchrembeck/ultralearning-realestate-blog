@@ -14,7 +14,7 @@ const GlobalStyle = createGlobalStyle`
   }
   html,
   body {
-    background: 'pizza2.png';
+    background: url('pizza2.png');
     padding: 0;
     margin: 0;
   }
