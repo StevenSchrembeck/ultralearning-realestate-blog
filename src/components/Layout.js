@@ -14,6 +14,7 @@ const GlobalStyle = createGlobalStyle`
   }
   html,
   body {
+    background: 'static/pizza.png';
     padding: 0;
     margin: 0;
   }
