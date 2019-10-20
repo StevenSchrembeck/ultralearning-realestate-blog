@@ -204,7 +204,7 @@ const Layout = ({ children, customSEO }) => {
         <GlobalStyle />
         {children}
         <Footer>
-          <span>Last build: {buildTime}</span>
+          <span>Last baked: {buildTime}</span>
         </Footer>
       </>
     </ThemeProvider>
